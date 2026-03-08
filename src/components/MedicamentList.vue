@@ -237,7 +237,7 @@ watch(
   border-collapse: collapse;
   background-color: white;
   text-align: left;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: 'Segoe UI', sans-serif;
 }
 
 .tableau-medic th {
